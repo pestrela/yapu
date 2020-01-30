@@ -28,3 +28,15 @@ Installation:
 
     pip install yapu
     
+
+    
+    
+Development info:
+---------------------------
+  
+  https://www.jeffknupp.com/blog/2013/08/16/open-sourcing-a-python-project-the-right-way/
+  https://github.com/WoLpH/python-utils
+  Pip -e:  https://stackoverflow.com/questions/52248505/how-to-locally-develop-a-python-package
+  Example package:  https://towardsdatascience.com/publishing-your-own-python-package-3762f0d268ec
+
+
