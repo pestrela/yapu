@@ -12,8 +12,8 @@ Documentation is available at: https://yapu.readthedocs.org/en/latest/
 
 Links
 -----
- - The source: https://github.com/pestrela/yapu
- - Project page: https://pypi.python.org/pypi/yapu
+ - Source Code: https://github.com/pestrela/yapu
+ - PyPi project page: https://pypi.python.org/pypi/yapu
  - Reporting bugs: https://github.com/pestrela/yapu/issues
  - Documentation: https://yapu.readthedocs.io/en/latest/
 
@@ -23,10 +23,11 @@ Requirements for installing:
 
   TBD
   
+  
 Installation:
 ------------------------------------------------------------------------------
 
-    pip install yapu
+  pip3 install yapu
     
 
     
@@ -34,9 +35,9 @@ Installation:
 Development info:
 ---------------------------
   
-  https://www.jeffknupp.com/blog/2013/08/16/open-sourcing-a-python-project-the-right-way/
-  https://github.com/WoLpH/python-utils
-  Pip -e:  https://stackoverflow.com/questions/52248505/how-to-locally-develop-a-python-package
-  Example package:  https://towardsdatascience.com/publishing-your-own-python-package-3762f0d268ec
+*  https://www.jeffknupp.com/blog/2013/08/16/open-sourcing-a-python-project-the-right-way/
+*  https://github.com/WoLpH/python-utils
+*  Pip -e:  https://stackoverflow.com/questions/52248505/how-to-locally-develop-a-python-package
+*  Example package:  https://towardsdatascience.com/publishing-your-own-python-package-3762f0d268ec
 
 

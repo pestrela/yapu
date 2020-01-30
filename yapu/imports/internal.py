@@ -8,7 +8,6 @@ from .stdlib import *
 from ..meta.decorator import *
 from ..meta.listify   import *
 from ..meta.meta      import *
-from ..meta.versioned_file import *
 
 
 from ..debug.trace    import *

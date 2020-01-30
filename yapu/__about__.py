@@ -1,5 +1,5 @@
 __package_name__ = 'yapu'
-__version__ = '1.0.0'
+__version__ = '1.0.1'
 __author__ = 'Pedro Estrela'
 __author_email__ = 'pedro.estrela@gmail.com'
 __description__ = (

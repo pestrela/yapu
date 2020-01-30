@@ -34,5 +34,6 @@ if __name__ == '__main__':
         tests_require=['pytest'],
         setup_requires=[] + pytest_runner,
         classifiers=['License :: OSI Approved :: BSD License'],
+        python_requires='>=3.6',
     )
 
